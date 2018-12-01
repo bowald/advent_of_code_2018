@@ -1,7 +1,6 @@
 [package]
-name = "day_01_a"
+name = "utils"
 version = "0.1.0"
 authors = ["Bowald <j_bowald@hotmail.com>"]
 
 [dependencies]
-utils = { path = "../utils" }
