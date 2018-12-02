@@ -8,6 +8,7 @@ fn main() {
         return x.parse().unwrap();
     }).collect();
     let mut frequencies: HashSet<i32> = HashSet::new();
+    frequencies.insert(0);
     let mut index = 0;
     let mut res = 0;
     loop {
