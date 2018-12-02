@@ -1,0 +1,7 @@
+[package]
+name = "day_02_b"
+version = "0.1.0"
+authors = ["Bowald <johan@bowald.se>"]
+
+[dependencies]
+utils = { path = "../utils" }
