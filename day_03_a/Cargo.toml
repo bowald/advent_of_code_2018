@@ -1,0 +1,8 @@
+[package]
+name = "day_03_a"
+version = "0.1.0"
+authors = ["Bowald <johan@bowald.se>"]
+
+[dependencies]
+utils = { path = "../utils" }
+regex = "1"
